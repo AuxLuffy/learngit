@@ -5,3 +5,5 @@ git tracks changes.
 changes 1
 changes 2
 changes 3
+changes 4:测试git status 命令
+changes 5:测试git diff命令
