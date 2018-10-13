@@ -7,6 +7,9 @@ public class Student{
 		this.sex = sex;
 		this.age = age;
 	}
+	public void rename(String name){
+		this.name = name;
+	}
 	public void setAge(int newAge){
 		this.age = newAge;
 	}
