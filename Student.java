@@ -10,4 +10,7 @@ public class Student{
 	public void setAge(int newAge){
 		this.age = newAge;
 	}
+	public int getAge(){
+		return this.age;
+	}
 }
