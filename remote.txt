@@ -1,2 +1,3 @@
 神奇的rebase--from dev2
 add from server
+git rebase改变多个提交信息
