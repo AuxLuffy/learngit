@@ -2,6 +2,9 @@ public class Student{
 	public int age;
 	public int sex;
 	public String name;
+	public Student(String name){
+		this.name = name;
+	}
 	public Student(String name, int sex, int age){
 		this.name = name;
 		this.sex = sex;
