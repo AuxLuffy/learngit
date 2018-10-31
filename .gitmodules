@@ -1,0 +1,3 @@
+[submodule "gitskills"]
+	path = gitskills
+	url = git@github.com:AuxLuffy/gitskills.git
