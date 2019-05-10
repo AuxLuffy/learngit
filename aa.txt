@@ -3,3 +3,4 @@ git 冲突1
 git冲突2
 git rebase操作测试
 git子模块
+git difftool p4merge
